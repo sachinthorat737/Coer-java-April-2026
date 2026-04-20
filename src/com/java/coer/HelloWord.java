@@ -6,7 +6,7 @@ public class HelloWord {
 		
 		System.out.println("HelloWord!!");
 		
-		String name = "irise";
+		String name = "irise"; 
 	}
 
 }
